@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/java_triks/static/css/main.6508e13e.css",
+    "main.js": "/java_triks/static/js/main.13cf6778.js",
+    "static/media/image1.jpg": "/java_triks/static/media/image1.bbcc2f77dfcac03d32f9.jpg",
+    "index.html": "/java_triks/index.html",
+    "main.6508e13e.css.map": "/java_triks/static/css/main.6508e13e.css.map",
+    "main.13cf6778.js.map": "/java_triks/static/js/main.13cf6778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6508e13e.css",
+    "static/js/main.13cf6778.js"
+  ]
+}
